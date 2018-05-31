@@ -1,1 +1,1 @@
-# sonoff-touch
+# Прошивка для Sonoff Touch
