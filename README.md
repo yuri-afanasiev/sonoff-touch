@@ -300,7 +300,7 @@
  ```{"relay":"1","led":"0","button":"1","version":"0.01"} ```
 
 #### Запрос
-/button/on
+ ```/button/on ```
 
 #### Ответ
  ```{"status":"1","activated":"1"} ```
