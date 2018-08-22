@@ -25,6 +25,6 @@ Password admin
 
 ![Настройки WIFI](https://raw.githubusercontent.com/yuri-afanasiev/sonoff-touch/master/doc/2.png)
 
-После каждого сохранения параметров нужно перезагружать систему.
+ 
  ![2](https://raw.githubusercontent.com/yuri-afanasiev/sonoff-touch/master/doc/3.png)
  
