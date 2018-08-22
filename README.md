@@ -1,6 +1,6 @@
 # Прошивка для Sonoff Touch
 
-
+## [Документация](https://github.com/yuri-afanasiev/sonoff-touch/wiki)
 ![1](https://raw.githubusercontent.com/yuri-afanasiev/sonoff-touch/master/doc/1.png)
  
 
