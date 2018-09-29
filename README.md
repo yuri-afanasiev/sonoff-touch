@@ -2,9 +2,12 @@
 
 ## [Документация](https://github.com/yuri-afanasiev/sonoff-touch/wiki)
 ![1](https://raw.githubusercontent.com/yuri-afanasiev/sonoff-touch/master/doc/1.png)
- 
+![7](https://raw.githubusercontent.com/yuri-afanasiev/sonoff-touch/master/doc/7.jpg)
 
- 
+ ## Прошивки для других устройств:
+- [Sonoff BN-SZ01](https://github.com/yuri-afanasiev/esp8285-BN-SZ01)
+- [Sonoff S20](https://github.com/yuri-afanasiev/sonoff-s20)
+
 ## Установка
 Загрузка прошивки с помощью NodeMCU Flasher  https://github.com/nodemcu/nodemcu-flasher
 Скачать можно [тут](https://github.com/nodemcu/nodemcu-flasher/blob/master/Win32/Release/ESP8266Flasher.exe)
@@ -26,5 +29,7 @@ Password admin
 ![Настройки WIFI](https://raw.githubusercontent.com/yuri-afanasiev/sonoff-touch/master/doc/2.png)
 
  
- ![2](https://raw.githubusercontent.com/yuri-afanasiev/sonoff-touch/master/doc/3.png)
- 
+ ![8](https://raw.githubusercontent.com/yuri-afanasiev/sonoff-touch/master/doc/8.png)
+ ![9](https://raw.githubusercontent.com/yuri-afanasiev/sonoff-touch/master/doc/9.png)
+ ![10](https://raw.githubusercontent.com/yuri-afanasiev/sonoff-touch/master/doc/10.png)
+ ![11](https://raw.githubusercontent.com/yuri-afanasiev/sonoff-touch/master/doc/11.png)
